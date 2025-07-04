@@ -32,4 +32,5 @@ Miscellaneous moments from attention maps:
 
 I would appreciate comments on mistakes and bugs :)
 <br>
-![hedgehog in the fog](assets/fog.jpg)
+
+<img src="assets/fog.jpg"/>
