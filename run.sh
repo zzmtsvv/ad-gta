@@ -1,3 +1,8 @@
+export WANDB_ENTITY=""
+export WANDB_BASE_URL="https://api.wandb.ai"
+export WANDB_API_KEY=""
+
+
 python generate_q.py \
   --seed=0 \
   --env_name="Dark-Room-9x9-v0" \
