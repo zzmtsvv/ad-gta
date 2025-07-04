@@ -1,6 +1,6 @@
-## Group Tiled Attention for In-Context RL
+## Grouped-Tied Attention for In-Context RL
 
-This is my implementation of [Group Tiled attention](https://github.com/Dao-AILab/grouped-latent-attention) (GTA) on the basis of [Algorithm Distillation](https://arxiv.org/abs/2210.14215) (AD) for In-Context RL capabilites on the example of toy DarkRoom environment.
+This is my implementation of [Grouped-Tied Attention](https://github.com/Dao-AILab/grouped-latent-attention) (GTA) on the basis of [Algorithm Distillation](https://arxiv.org/abs/2210.14215) (AD) for In-Context RL capabilites on the example of toy DarkRoom environment.
 <br>
 
 Codebase shares similar philosophy of [xland100b](https://github.com/dunnolab/xland-minigrid-datasets) and [cleanrl](https://github.com/vwxyzjn/cleanrl), i.e. isolates methods GTA- and MHA-based transformers so they can be self-contained and easily integrated into other projects.
