@@ -28,13 +28,14 @@ Miscellaneous moments from attention maps:
 - CUDA 12.6
 - python 3.10+
 <br>
-```bash
+```
 export WANDB_ENTITY=""
 export WANDB_BASE_URL="https://api.wandb.ai"
 export WANDB_API_KEY=""
 
 bash run.sh
 ```
+
 see `run.sh` for more details about training params.
 <br>
 
